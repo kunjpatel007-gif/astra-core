@@ -1,3 +1,5 @@
+
+
 # ASTRA_CORE 🌌
 
 A mobile astronomy app I built with Flutter. The idea was simple — I wanted something that actually tells you what's in the sky tonight, lets you log your observations, and looks cool doing it.
@@ -14,6 +16,9 @@ A mobile astronomy app I built with Flutter. The idea was simple — I wanted so
 |---|---|---|
 | ![Form](screenshots/Screenshot_20260617_115236.jpg) | ![Star](screenshots/Screenshot_20260617_115254.jpg) | ![Nebula](screenshots/Screenshot_20260617_115301.jpg) |
 
+## Demo Video
+
+[▶ Watch Demo](screenshots/Video%20Project%201.mp4)
 ---
 
 ## What it does
